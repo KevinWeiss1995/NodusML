@@ -1,0 +1,8 @@
+PyQt6
+pyqtgraph
+flask
+flask-cors
+requests
+psutil
+GPUtil
+numpy 
